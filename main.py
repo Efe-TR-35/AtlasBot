@@ -1,6 +1,6 @@
 import os
 import time
-from datetime import datetime, timedelta
+from detime import datetime, timedelta
 import discord
 from discord import app_commands
 from discord.ext import commands
